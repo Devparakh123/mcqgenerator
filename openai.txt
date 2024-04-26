@@ -1,6 +1,0 @@
-openai
-lanchain 
-streamlit
-python -dptenv
-pyPDF2
-
